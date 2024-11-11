@@ -17,7 +17,7 @@ def leiaInt(msg):
 
 #Função utilizada para Linha
 def linha(tam = 42):
-    return '-' * tam
+    return '=' * tam
 
 
 # Função utilizada para o cabeçalho
